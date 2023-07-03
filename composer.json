@@ -10,7 +10,7 @@
     "require": {
         "fakerphp/faker": "^1.23"
     },
-    "bin": ["index.php"],
+    "bin": ["pharpress.php"],
     "require-dev": {
         "clue/phar-composer": "^1.4"
     }

@@ -1,0 +1,17 @@
+{
+    "name": "jonathanbossenger/pharpress",
+    "description": "Attempt to make a phar for the Interactive Code block",
+    "authors": [
+        {
+            "name": "Jonathan Bossenger",
+            "email": "jonathanbossenger@gmail.com"
+        }
+    ],
+    "require": {
+        "fakerphp/faker": "^1.23"
+    },
+    "bin": ["index.php"],
+    "require-dev": {
+        "clue/phar-composer": "^1.4"
+    }
+}
